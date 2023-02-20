@@ -173,6 +173,12 @@
     }
 }
 
+@media (max-width: 926px){
+    .three {
+        margin-top: 0;
+    }
+}
+
 @media (max-width: 907px){
     .three {
         margin: 0 auto;
@@ -212,6 +218,22 @@
     }
 }
 
+
+@media (max-width: 612px){
+     .image-3 {
+        align-items: center;
+        justify-content: center;
+    }
+    .image-3-img {
+        width: 55%;
+    }
+    .image-3-img:nth-child(2){
+        margin: 20px 0 20px 5px;
+    }
+    .three {
+        margin-top: 0;
+    }
+}
 
 @media (max-width: 606px){
     .surati {
@@ -253,16 +275,6 @@
     .four-box-div:nth-child(3) {
         margin-top: 30px;
         margin-bottom: 10px;
-    }
-    .image-3 {
-        align-items: center;
-        justify-content: center;
-    }
-    .image-3-img:nth-child(2){
-        margin: 20px 0 20px 5px;
-    }
-    .three {
-        margin-top: 0;
     }
     .icons {
         display: none;
