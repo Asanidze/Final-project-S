@@ -369,3 +369,9 @@
         justify-content: center;
     }
 }
+
+@media (max-width: 330px){
+    .img {
+        margin-top: 300px;
+    }
+}
