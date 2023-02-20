@@ -351,6 +351,15 @@
     }
 }
 
+@media (max-width: 432px){
+    .lorem-1 {
+        margin-bottom: 30px;
+    }
+    .image-3-img {
+        width: 75%;
+    }
+}
+
 @media (max-width: 417px){
     .kg {
         width: 100%;
@@ -395,6 +404,12 @@
     }
     .header-black {
         justify-content: center;
+    }
+}
+
+@media (max-width: 336px){
+    .lorem-1 {
+        margin-bottom: 110px;
     }
 }
 
