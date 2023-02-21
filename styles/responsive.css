@@ -13,7 +13,7 @@
     }
 }
 
-@media (max-width: 1328px){
+@media (max-width: 1345px){
     .section-3 {
         height: auto;
     }
@@ -355,6 +355,9 @@
     .kg {
         width: 100%;
     } 
+    .train {
+        margin-bottom: 90px;
+    }
 }
 
 @media (max-width: 400px) {
@@ -373,9 +376,6 @@
     }
     .bottom-line {
         width: 100%;
-    }
-    .train {
-        margin-bottom: 90px;
     }
     .header-black {
         width: 100%;
