@@ -53,6 +53,7 @@
     .about-div,
     .paragraph-1{
         margin: 0 auto;
+        margin-bottom: 50px;
     }
     .section-4 {
         height: auto;
@@ -381,7 +382,7 @@
         height: auto;
     }
     .img {
-        margin-top: 210px;
+        margin-top: 160px;
     }
     .bottom-line {
         width: 100%;
@@ -407,16 +408,16 @@
     }
 }
 
-@media (max-width: 336px){
+@media (max-width: 337px){
     .lorem-1 {
         margin-bottom: 110px;
+    }
+    .img {
+        margin-top: 230px;
     }
 }
 
 @media (max-width: 330px){
-    .img {
-        margin-top: 300px;
-    }
     .info {
         width: 100%;
     }
